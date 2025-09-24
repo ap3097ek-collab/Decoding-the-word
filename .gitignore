@@ -1,3 +1,20 @@
+# Visual Studio cache
+.vs/
+*.suo
+*.user
+*.db
+*.opendb
+*.ipch
+*.log
+*.obj
+*.pdb
+*.tlog
+*.idb
+*.ilk
+*.pch
+x64/
+Debug/
+Release/
 # Prerequisites
 *.d
 
